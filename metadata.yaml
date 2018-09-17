@@ -1,0 +1,29 @@
+_repo: Studies-of-Birds-Killed-in-Nocturnal-Migration_52382
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Tordoff, Harrison Bruce
+    alias: Tordoff, Harrison B.
+    birthdate: 1923
+    gutenberg_agent_id: '37019'
+    url: http://www.gutenberg.org/2009/agents/37019
+  - agent_name: Mengel, Robert Morrow
+    alias: Mengel, Robert M.
+    birthdate: 1921
+    gutenberg_agent_id: '46832'
+    url: http://www.gutenberg.org/2009/agents/46832
+description: ''
+gutenberg_issued: '2016-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Migration'
+- !lcc 'QH'
+- GITenberg
+title: Studies of Birds Killed in Nocturnal Migration
+url: http://www.gutenberg.org/ebooks/52382
